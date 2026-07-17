@@ -156,8 +156,7 @@ Userlogic.java
 **Jeevan Prasad Palleti**
 
 - GitHub: https://github.com/palletijeevan123
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-
+- LinkedIn:www.linkedin.com/in/jeevanprasad-palleti-590191317
 ---
 
 ## ⭐ If you like this project
